@@ -1,0 +1,12 @@
+*{   
+	margin: auto;
+	text-align: center;
+}
+table, tr, td {border:1px solid black; border-collapse: collapse; }
+
+table {width:70%; height:70%; table-layout: fixed;}
+
+
+.One {background-color: white; }
+.two {background-color: yellow;}
+.three{background-color: green;}
